@@ -1,0 +1,16 @@
+
+ Time          : 2021/08/06 16:46:18
+Custermer Name : Ravindu Sathsara
+Custermr id      : 200011600503
+Custerer Mobile  :0778953672
+=========================
+ Time          : 2021/08/06 16:46:50
+Custermer Name : Mr Sathsara
+Custermr id      : 8282828282
+Custerer Mobile  :0778953672
+=========================
+ Time          : 2021/08/06 16:47:06
+Custermer Name : Mr Ravindu
+Custermr id      : 1122334455
+Custerer Mobile  :0778953672
+=========================
